@@ -12,4 +12,6 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-tatapudi&layout=compact&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-tatapudi&layout=compact&theme=dark)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
