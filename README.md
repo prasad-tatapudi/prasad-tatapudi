@@ -32,10 +32,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasad-tatapudi&show_icons=true&theme=dark&v=2" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-tatapudi&layout=compact&theme=dark&v=2" height="150">
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-tatapudi&theme=dark" height="150">
