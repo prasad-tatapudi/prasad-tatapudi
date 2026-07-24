@@ -1,88 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:5f27cd,100:8e2de2&height=220&section=header&text=Prasad%20Tatapudi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20|%20Aspiring%20Software%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:7C3AED,100:9333EA&text=Prasad%20Tatapudi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Java%20|%20Python%20|%20Full%20Stack&descAlignY=60"/>
 
-# Hi there 👋 I'm Prasad Tatapudi
+# 👋 Hi, I'm Prasad Tatapudi
 
-### 💻 B.Tech Student | Java | Python | Full Stack | SAP ABAP Learner
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=B.Tech+Student;Software+Developer;Java+%7C+Python+Developer;Full+Stack+Learner;Learning+SAP+ABAP+%26+AI"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6C3EF4?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-tatapudi-4a2589324)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasad-tatapudi)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<p>
 
-![](https://komarev.com/ghpvc/?username=prasad-tatapudi&style=for-the-badge&color=blueviolet)
+<a href="https://github.com/prasad-tatapudi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prasad-tatapudi-4a2589324">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=prasad-tatapudi&style=for-the-badge&color=7C3AED"/>
+
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 I'm a B.Tech student passionate about Software Development, AI, and Web Technologies.
+🎓 B.Tech Student passionate about building practical software.
 
-💡 I enjoy building practical applications and continuously improving my programming skills through projects.
+💻 Interested in
 
-🌱 **Currently Learning**
-- Java & Data Structures
+- Software Development
 - Full Stack Web Development
-- SAP ABAP & OData
-- Machine Learning Fundamentals
+- Java Programming
+- Artificial Intelligence
+- SAP ABAP
 
-🎯 **Looking for**
-- Software Development Internships
-- AI/ML Learning Opportunities
-- Open Source Contributions
+🌱 Currently Learning
 
-⚡ **Goal**
+- Data Structures & Algorithms
+- React
+- Node.js
+- MongoDB
+- SAP OData
+- Machine Learning
 
-Become a skilled Software Engineer by building impactful real-world applications.
+🎯 Goal
+
+Become a skilled Software Engineer by building real-world projects and contributing to open source.
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### Programming Languages
+<div align="center">
 
-<p>
+### Languages
+
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
-</p>
 
-### Frameworks & Libraries
+### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
 
-### Tools & Platforms
+### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
 
-### Learning
-
-<p>
-<img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OData-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
 ## 🌾 Smart Irrigation & Crop Water Management
 
-A web application that helps farmers monitor soil moisture, weather conditions, and crop recommendations.
+A web application that recommends irrigation schedules based on soil and weather conditions.
 
-**Tech Used**
+**Tech**
 
 `HTML`
 `CSS`
@@ -93,12 +100,24 @@ A web application that helps farmers monitor soil moisture, weather conditions, 
 
 ## 📋 Mini CRM
 
-A client management system with secure login, dashboard, and backend integration.
+A client management system with authentication, dashboard, and backend integration.
 
-**Tech Used**
+**Tech**
 
 `React`
 `Node.js`
+`SQLite`
+
+---
+
+## ⏰ Alarm Reminder App
+
+Desktop reminder application built using Python.
+
+**Tech**
+
+`Python`
+`Tkinter`
 `SQLite`
 
 ---
@@ -107,7 +126,7 @@ A client management system with secure login, dashboard, and backend integration
 
 Movie browsing application with search functionality.
 
-**Tech Used**
+**Tech**
 
 `HTML`
 `CSS`
@@ -115,23 +134,11 @@ Movie browsing application with search functionality.
 
 ---
 
-## ⏰ Alarm & Reminder Application
-
-Desktop reminder application built using Python.
-
-**Tech Used**
-
-`Python`
-`Tkinter`
-`SQLite`
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prasad-tatapudi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prasad-tatapudi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-tatapudi&theme=tokyonight&hide_border=true"/>
 
@@ -143,7 +150,7 @@ Desktop reminder application built using Python.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-tatapudi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-tatapudi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -163,7 +170,27 @@ Desktop reminder application built using Python.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prasad-tatapudi&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prasad-tatapudi&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# ⚡ Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/prasad-tatapudi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 </div>
 
@@ -171,30 +198,32 @@ Desktop reminder application built using Python.
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/prasad-tatapudi-4a2589324">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/prasad-tatapudi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💡 Quote
 
-*"Code. Learn. Build. Repeat."*
+> "Stay curious. Keep building. Let your projects speak for your skills."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,50:5f27cd,100:1a1a2e&height=120&section=footer"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:9333EA,50:7C3AED,100:0F172A"/>
 
 </div>
